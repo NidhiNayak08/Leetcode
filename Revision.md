@@ -12,3 +12,4 @@
 | 518  | Coin Change 2 | Medium    | Java     | 6/1/2025  | Almost same but here think what u want to store in dp and what should be returned in final answer |[View](https://leetcode.com/problems/coin-change-ii/description/) |
 | 1143  | Longest Common Subsequence | Medium    | Java     | 7/1/2026 | Match, not match. Base Case : Out of bounds|[View](https://leetcode.com/problems/longest-common-subsequence/description/) |
 | 516  | Longest Palindromic Subsequence | Medium    | Java     | 8/1/2026 | 2 methods : 1. Using LCS or 2. Two pointers + dp |[View](https://leetcode.com/problems/longest-palindromic-subsequence/description/) |
+| 141  | Linked List Cycle | Easy    | Java     | 11/1/2025  | Slow and Fast ptr concrpt |[View](https://leetcode.com/problems/unique-paths/description/) |
