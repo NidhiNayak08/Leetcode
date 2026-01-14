@@ -12,5 +12,6 @@
 | 518  | Coin Change 2 | Medium    | Java     | 6/1/2025  | Almost same but here think what u want to store in dp and what should be returned in final answer |[View](https://leetcode.com/problems/coin-change-ii/description/) |
 | 1143  | Longest Common Subsequence | Medium    | Java     | 7/1/2026 | Match, not match. Base Case : Out of bounds|[View](https://leetcode.com/problems/longest-common-subsequence/description/) |
 | 516  | Longest Palindromic Subsequence | Medium    | Java     | 8/1/2026 | 2 methods : 1. Using LCS or 2. Two pointers + dp |[View](https://leetcode.com/problems/longest-palindromic-subsequence/description/) |
-| 141  | Linked List Cycle | Easy    | Java     | 11/1/2025  | Slow and Fast ptr concrpt |[View](https://leetcode.com/problems/unique-paths/description/) |
+| 141  | Linked List Cycle | Easy    | Java     | 11/1/2026  | Slow and Fast ptr concrpt |[View](https://leetcode.com/problems/unique-paths/description/) |
 | 5  | Longest Palindromic Substring | Medium    | Java     | 12/1/2025  | Tip : Every single char in string is palindrom. So dp[i][i] shall alwyas be True. now, if u iterate from j=0 to i, and check if str[j] and str[i] match and str[j+1][i-1] = true then its also a palindrome. Think about edge cases here. |[View](https://leetcode.com/problems/longest-palindromic-substring/description/) |
+| 70  | Climbing Stairs | Easy    | Java     | 14/1/2026  | Every step depends on its previous n-1 and n-2 th steps|[View](https://leetcode.com/problems/climbing-stairs/description/) |
