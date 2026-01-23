@@ -15,3 +15,4 @@
 | 141  | Linked List Cycle | Easy    | Java     | 11/1/2026  | Slow and Fast ptr concrpt |[View](https://leetcode.com/problems/unique-paths/description/) |
 | 5  | Longest Palindromic Substring | Medium    | Java     | 16/1/2026  | Tip : Every single char in string is palindrom. So dp[i][i] shall alwyas be True. now, if u iterate from j=0 to i, and check if str[j] and str[i] match and str[j+1][i-1] = true then its also a palindrome. Think about edge cases here. |[View](https://leetcode.com/problems/longest-palindromic-substring/description/) |
 | 70  | Climbing Stairs | Easy    | Java     | 14/1/2026  | Every step depends on its previous n-1 and n-2 th steps|[View](https://leetcode.com/problems/climbing-stairs/description/) |
+| 547  | Number of Provinces | Medium    | Java     | 23/1/2026 | Used DFS approach|[View](https://leetcode.com/problems/number-of-provinces/description/) |
